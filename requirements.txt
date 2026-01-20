@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+faker
+db-sqlite3
